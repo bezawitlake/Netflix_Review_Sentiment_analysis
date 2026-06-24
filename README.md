@@ -109,9 +109,10 @@ This progression enables comparison between classical machine learning, neural n
 
 ---
 <p align="center">
-  <img src="images/feature_importance.png" width="700">
+  <img src="d.png" width="700">
 </p>
 ---
+
 
 ## Key Contributions
 
