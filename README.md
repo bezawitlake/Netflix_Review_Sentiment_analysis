@@ -108,6 +108,10 @@ These techniques transformed unstructured text into machine-learning-ready numer
 This progression enables comparison between classical machine learning, neural networks, and modern transformer architectures.
 
 ---
+<p align="center">
+  <img src="images/feature_importance.png" width="700">
+</p>
+---
 
 ## Key Contributions
 
